@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, RemoteControlActivity!</string>
+    <string name="app_name">RemoteControl</string>
+	<string name="unknown_inet_host">unknow_inet_host</string>
+	<string name="please_wait">please wait</string>
+	<string name="connecting">connecting</string>
+	<string name="can_not_connect_inet">can not connect inet!</string>
+</resources>
